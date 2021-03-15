@@ -482,6 +482,7 @@ header {
 
 .Project-Churn__img {
     box-shadow: var(--bs);
+    margin-top: 1em;
 }
 
 
@@ -515,6 +516,7 @@ header {
         width: calc(100% + 2em);
         padding-left: 1em;
         padding-right: calc(200px + 4em);
+        margin-bottom: 1em;
     }
 
 }
@@ -529,6 +531,7 @@ header {
 
 .Project-Fraud__img {
     box-shadow: var(--bs);
+    margin-top: 1em;
 }
 
 
@@ -578,6 +581,7 @@ header {
 
 .Project-Data-Migration__img {
     box-shadow: var(--bs);
+    margin-top: 1em;
 }
 
 
@@ -625,6 +629,7 @@ header {
 
 .Project-Sentiment__img {
     box-shadow: var(--bs);
+    margin-top: 1em;
 }
 
 
